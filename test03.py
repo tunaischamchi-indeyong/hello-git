@@ -2,7 +2,8 @@
 def sayHello(name):
     return 'Hello, ' + name + '!'
     
-inName = 'Tom'
-lastName = 'Brown'
+<<<<<<< HEAD
+inName = 'Tom Brown'
+#충돌매움! 
 print(sayHello(inName))
 print("main 브랜치에서 새로운 커밋생성")

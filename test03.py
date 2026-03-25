@@ -2,7 +2,6 @@
 def sayHello(name):
     return 'Hello, ' + name + '!'
     
-<<<<<<< HEAD
 inName = 'Tom Brown'
 #충돌매움! 
 print(sayHello(inName))
